@@ -1,0 +1,11 @@
+id,question,expected_complexity,notes
+1,What is a Python list?,simple,Check definition and example
+2,Explain the difference between a list and a tuple.,complex,Check accuracy and clarity
+3,What does HTTP 404 mean?,simple,Check status definition
+4,Explain how to troubleshoot a database connection timeout in FastAPI.,complex,Check steps and cautions
+5,What is a primary key?,simple,Check definition
+6,Write a SQL query to find duplicate emails and explain it.,complex,Check syntax and grouping
+7,What is a function in Python?,simple,Check definition
+8,Compare arrays and linked lists for insertion and lookup.,complex,Check complexity assumptions
+9,What is JSON?,simple,Check definition
+10,Explain how to debug a Python KeyError with an example.,complex,Check correctness
